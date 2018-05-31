@@ -1,8 +1,5 @@
 /target/
-!.mvn/wrapper/maven-wrapper.jar
-
-### Eclipse ###
-/target/
+.mvn
 
 ### STS ###
 .apt_generated
