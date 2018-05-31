@@ -10,6 +10,6 @@ A reference implementation project with
 clone and import as maven project in your IDE.
 
 
-##Notes
+## Notes
 	- All test file are under src/test/java [To run, go to file and execute ]
 	- The Main implementation is in src/main/java/com/example/challenge/CodeChallenge.java
